@@ -1,4 +1,7 @@
 # tennis_ML
-implement gradient descent machine learning algorithm on tennis data to predict outcome of tournament
+goals:
+-prepare data
+-implement gradient descent
+-predict future outcomes
 
 csv data files forked from JeffSackmann/tennis_atp
